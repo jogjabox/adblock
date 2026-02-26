@@ -46,3 +46,4 @@
 0.0.0.0 static.doubleclick.net
 0.0.0.0 livevideo-vrz-dra.dbankcdn.cn
 0.0.0.0 livevideo-hw-dra.dbankcdn.cn
+0.0.0.0 variations.brave.com
