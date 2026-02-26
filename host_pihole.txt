@@ -14,7 +14,6 @@
 0.0.0.0 nav-edge.smartscreen.microsoft.com
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 c.msn.com
-0.0.0.0 hesads.akamaized.net
 0.0.0.0 anonymous.ads.brave.com
 0.0.0.0 collector.bsg.brave.com
 0.0.0.0 dns.msftncsi.com
