@@ -30,4 +30,6 @@
 0.0.0.0 store-dra.hispace.dbankcloud.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 apmplus.volces.com
+0.0.0.0 star-randsrv.bsg.brave.com
+0.0.0.0 collector.bsg.brave.com
 
