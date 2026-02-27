@@ -54,5 +54,14 @@
 0.0.0.0 beacons3.gvt2.com
 0.0.0.0 api16-access-wf-my.pangle.io
 0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 html-load.com
-
+0.0.0.0 html-load
+0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
+0.0.0.0 m.tiktok.com
+0.0.0.0 api.tiktok.com
+0.0.0.0 v16.tiktokcdn.com
+0.0.0.0 p16-tiktokcdn-com.akamaized.net
+0.0.0.0 byteoversea.com
+0.0.0.0 tiktokv.com
+0.0.0.0 tik-tokcdn.com
+0.0.0.0 tiktokcdn.com
