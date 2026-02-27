@@ -65,3 +65,4 @@
 0.0.0.0 tiktokv.com
 0.0.0.0 tik-tokcdn.com
 0.0.0.0 tiktokcdn.com
+0.0.0.0 mon-va.byteoversea.com
