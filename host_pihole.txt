@@ -47,3 +47,8 @@
 0.0.0.0 livevideo-vrz-dra.dbankcdn.cn
 0.0.0.0 livevideo-hw-dra.dbankcdn.cn
 0.0.0.0 variations.brave.com
+0.0.0.0 beacons4.gvt2.com
+0.0.0.0 beacons.gvt2.com
+0.0.0.0 beacons5.gvt2.com
+0.0.0.0 beacons5.gvt3.com
+0.0.0.0 beacons3.gvt2.com
