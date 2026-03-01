@@ -53,7 +53,6 @@
 0.0.0.0 beacons5.gvt3.com
 0.0.0.0 beacons3.gvt2.com
 0.0.0.0 api16-access-wf-my.pangle.io
-0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 html-load
 0.0.0.0 tiktok.com
 0.0.0.0 www.tiktok.com
@@ -66,4 +65,3 @@
 0.0.0.0 tik-tokcdn.com
 0.0.0.0 tiktokcdn.com
 0.0.0.0 mon-va.byteoversea.com
-0.0.0.0 telemetry.canva.com
