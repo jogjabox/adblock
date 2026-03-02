@@ -73,3 +73,7 @@
 0.0.0.0 clienttracing-pa.googleapis.com
 0.0.0.0 ogads-pa.clients6.google.com
 0.0.0.0 beacons-handoff.gcp.gvt2.com
+0.0.0.0 o13855.ingest.sentry.io
+0.0.0.0 c-msn-afd.trafficmanager.net
+0.0.0.0 fkcltd.inapps.appsflyersdk.com
+0.0.0.0 sb.scorecardresearch.com
