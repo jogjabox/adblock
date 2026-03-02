@@ -67,3 +67,9 @@
 0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 bigo.tv
 0.0.0.0 bigo.sg
+0.0.0.0 telemetry.canva.com.cdn.cloudflare.net
+0.0.0.0 d17ndjuagurpsr.cloudfront.net
+0.0.0.0 o33249.ingest.us.sentry.io
+0.0.0.0 clienttracing-pa.googleapis.com
+0.0.0.0 ogads-pa.clients6.google.com
+0.0.0.0 beacons-handoff.gcp.gvt2.com
