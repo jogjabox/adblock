@@ -79,3 +79,5 @@
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 db14f649-f232-4c08-b27d-c38f66fba340-netseer-ipaddr-assoc.xy.fbcdn.net
 0.0.0.0 db14f649-f232-4c08-b27d-c38f66fba340-netseer-ipaddr-assoc.xz.fbcdn.net
+0.0.0.0 mr-b01.tm-azurefd.net
+0.0.0.0 idsyncprod-cehbcsbucqdhhgcj.b01.azurefd.net
