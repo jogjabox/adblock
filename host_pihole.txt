@@ -96,3 +96,6 @@
 0.0.0.0 in-ftd-275.nl3.vip.prod.criteo.com
 0.0.0.0 cdn.branch.io
 0.0.0.0 mon-va.byteoversea.com.ttdns2.com
+0.0.0.0 nel.measure.office.net.edgesuite.net
+0.0.0.0 a1894.dscb.akamai.net
+0.0.0.0 exo.nel.measure.office.net
