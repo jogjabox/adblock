@@ -102,3 +102,6 @@
 0.0.0.0 static.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 ep1.adtrafficquality.google
+0.0.0.0 klaviyo-onsite.map.fastly.net
+0.0.0.0 deff.nelreports.net.akamaized.net
+0.0.0.0 a1858.dscd.akamai.net
