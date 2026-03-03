@@ -89,3 +89,9 @@
 0.0.0.0 ca.iadsdk.apple.com.akadns.net.
 0.0.0.0 iadsdk.apple.com.edgekey.net
 0.0.0.0 e4805.dsca.akamaiedge.net
+0.0.0.0 www.google-analytics.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 certify-js.alexametrics.com
+0.0.0.0 in-ftd-275.nl3.vip.prod.criteo.com
+0.0.0.0 cdn.branch.io
