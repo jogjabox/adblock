@@ -86,3 +86,6 @@
 0.0.0.0 e3925.dscg.akamaiedge.net
 0.0.0.0 experiments.apple.com.edgekey.net
 0.0.0.0 ab.apple.com.akadns.net
+0.0.0.0 ca.iadsdk.apple.com.akadns.net.
+0.0.0.0 iadsdk.apple.com.edgekey.net
+0.0.0.0 e4805.dsca.akamaiedge.net
