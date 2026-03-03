@@ -91,7 +91,6 @@
 0.0.0.0 e4805.dsca.akamaiedge.net
 0.0.0.0 www.google-analytics.com
 0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 www.googletagmanager.com
 0.0.0.0 certify-js.alexametrics.com
 0.0.0.0 in-ftd-275.nl3.vip.prod.criteo.com
 0.0.0.0 cdn.branch.io
@@ -99,3 +98,7 @@
 0.0.0.0 nel.measure.office.net.edgesuite.net
 0.0.0.0 a1894.dscb.akamai.net
 0.0.0.0 exo.nel.measure.office.net
+0.0.0.0 www3.l.google.com
+0.0.0.0 static.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 ep1.adtrafficquality.google
