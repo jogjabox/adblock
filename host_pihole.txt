@@ -109,3 +109,8 @@
 0.0.0.0 grs.dbankcloud.cn
 0.0.0.0 grs.dbankcloud.asia
 0.0.0.0 grs.dbankcloud.eu
+0.0.0.0 adsimg.kompas.com.0d0007d9.cdnhwc8.cn
+0.0.0.0 hcdnw119.ovc.c.cdnhwc7.com
+0.0.0.0 scripts.jixie.media
+0.0.0.0 consent.cookiebot.com-v2.edgekey.net
+0.0.0.0 e110990.dsca.akamaiedge.net
