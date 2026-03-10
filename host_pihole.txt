@@ -68,7 +68,7 @@
 0.0.0.0 bigo.tv
 0.0.0.0 bigo.sg
 0.0.0.0 telemetry.canva.com.cdn.cloudflare.net
-# 0.0.0.0 d17ndjuagurpsr.cloudfront.net
+0.0.0.0 d17ndjuagurpsr.cloudfront.net
 0.0.0.0 o33249.ingest.us.sentry.io
 0.0.0.0 clienttracing-pa.googleapis.com
 0.0.0.0 ogads-pa.clients6.google.com
@@ -102,7 +102,7 @@
 0.0.0.0 static.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 ep1.adtrafficquality.google
-#0.0.0.0 klaviyo-onsite.map.fastly.net
+0.0.0.0 klaviyo-onsite.map.fastly.net
 0.0.0.0 deff.nelreports.net.akamaized.net
 0.0.0.0 a1858.dscd.akamai.net
 0.0.0.0 grs.dbankcloud.com
